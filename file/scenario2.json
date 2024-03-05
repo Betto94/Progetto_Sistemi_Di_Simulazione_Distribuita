@@ -1,0 +1,10 @@
+{
+  "M1": 5,
+  "mediaM1" : 40,
+  "varianzaM1" : 3,
+  "costoM1" : 10000,
+  "M2": 5,
+  "mediaM2" : 30,
+  "varianzaM2" : 2,
+  "costoM2" : 12000
+}
